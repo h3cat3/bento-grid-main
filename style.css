@@ -12,7 +12,7 @@
 }
 body{
     background-color: hsl(251, 44%, 95%);
-    font-family: DMSans;
+    font-family: DMSans, serif;
 }
 .l-grid{
     margin: 0 auto;
@@ -22,12 +22,9 @@ body{
     grid-auto-rows: auto;
      gap: 2rem;
 }
-.l-grid__item{
-    overflow: hidden;
-    transition: box-shadow 0.5s ease-in;
-}
 .l-grid__item:hover{
     box-shadow: 10px 10px 10px hsl(256, 50%, 78%);
+    transition: box-shadow 0.5s ease-in;
 }
 .card{
     background-color: var(--White);

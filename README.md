@@ -28,11 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/screenshot/iPad%20Mini-1767964012059.jpeg) ![](/screenshot/iPhone%20SE-1767964009534.jpeg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/h3cat3/bento-grid-main)
+- Live Site URL: [](https://h3cat3.github.io/bento-grid-main/)
 
 ## My process
 
