@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/h3cat3/bento-grid-main)
-- Live Site URL: [](https://h3cat3.github.io/bento-grid-main/)
+- Live Site URL: [](https://h3cat3.github.io/bento-grid-main)
 
 ## My process
 
